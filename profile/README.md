@@ -15,3 +15,8 @@ Repos:
 * [fibby-ui](https://github.com/polyrepo-fam/fibby-ui)
 * [token](https://github.com/polyrepo-fam/token)
 
+NPM:
+* [@polyrepo-fam/libby-ui](https://www.npmjs.com/package/@polyrepo-fam/libby-ui)
+* [@polyrepo-fam/fibby-ui](https://www.npmjs.com/package/@polyrepo-fam/fibby-ui)
+* [@polyrepo-fam/token](https://www.npmjs.com/package/@polyrepo-fam/token)
+
